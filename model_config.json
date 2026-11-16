@@ -1,0 +1,11 @@
+{
+    "class_names": [
+        "GREEN",
+        "YELLOW",
+        "RED"
+    ],
+    "feature_mean": 8.742051124572754,
+    "feature_std": 6.125863552093506,
+    "input_feature": "Value",
+    "target_feature": "Quality"
+}
